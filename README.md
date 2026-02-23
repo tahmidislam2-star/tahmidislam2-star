@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Tahmid Islam**, a student studying **Computer Science & Engineering**.
+I’m **Tahmid Islam**, a student studying **Computer Science & Engineering** at BRAC University, Bangladesh.
 
 I’m passionate about building and experimenting with new ideas, especially in:
 
