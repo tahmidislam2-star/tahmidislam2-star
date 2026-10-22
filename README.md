@@ -2,6 +2,8 @@
 
 I’m **Tahmid Islam**, a student studying **Computer Science & Engineering** at BRAC University, Bangladesh.
 
+---
+
 I’m passionate about building and experimenting with new ideas, especially in:
 
 - 🎮 Game Development  
@@ -9,14 +11,20 @@ I’m passionate about building and experimenting with new ideas, especially in:
 - 🌐 Web Design  
 - 🗄️ Database Management  
 
+---
+
 ### 🧠 Current Focus
 I’m currently focused on developing new game concepts and creating hands-on projects to sharpen my skills.
 
+---
+
 ### 🛠️ Tech I’m Most Comfortable With
-- **Godot**
 - **Python**
 - **JavaScript**
 - **MySQL**
+- **Godot**
+
+---
 
 ### 🚀 Projects
 
@@ -33,6 +41,8 @@ I’m currently focused on developing new game concepts and creating hands-on pr
 
 - **[Two Pieces in a Cup](https://z-envy.itch.io/two-pieces-in-a-cup)** — Run a cozy cat café while farming your own ingredients. Grow, brew, serve, repeat. 
   `Godot 4`
+
+---
 
 ### 🎧 Hobbies
 When I’m not coding or designing, I love listening to music.
